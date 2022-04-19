@@ -1,2 +1,2 @@
 # CodeTest
-Detta är samma program som jag senare konverterade till Node (se KodTest)
+Detta är prototypen av ett program som jag senare konverterade till Node (se KodTest)
